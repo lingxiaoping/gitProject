@@ -1,6 +1,9 @@
 package com.nnxy;
 
 public class Usercontroller {
-	public String Username;
+	public void test(){
+		System.out.println("helloworld")
+	}
+	
 
 }
